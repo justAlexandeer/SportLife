@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937996600654",
+    "firebase_url": "https://my-project-fitness-292513.firebaseio.com",
+    "project_id": "my-project-fitness-292513",
+    "storage_bucket": "my-project-fitness-292513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937996600654:android:91beaee4015431ee248a1f",
+        "android_client_info": {
+          "package_name": "com.myprog.sportlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937996600654-stk6cm27nljsv9fh3nud9ojg5r9eju8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myprog.sportlife",
+            "certificate_hash": "fda738ef038580114f963fde5982da1311e1d387"
+          }
+        },
+        {
+          "client_id": "937996600654-m7n5069mme0rnha735hoccngnbl7s1n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRTO5qw1Qxv1Edebl3Xrn6nK0SMBH5fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937996600654-m7n5069mme0rnha735hoccngnbl7s1n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

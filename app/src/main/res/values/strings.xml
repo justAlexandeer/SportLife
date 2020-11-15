@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SportLife</string>
+    <string name="permission_MainText">Для правильной работы приложения предоставьте доступ к вашей гелокации. Мы используем
+        ее исключительно для сбора и отображения статистики ваших тренеровок. Таких как: дистанция бега, минимальная и максимальная
+        скорость и др.</string>
+    <string name="permission_button">предоставить доступ</string>
+    <string name="authentication_email">Введите свой Email</string>
+    <string name="authentication_password">Введите свой пароль</string>
+    <string name="menu_activity">активность</string>
+    <string name="menu_training">начать</string>
+    <string name="menu_list">тренировка</string>
+    <string name="detailTraining_DateTitle">Время</string>
+    <string name="detailTraining_DateMetaData">Длительньность тренировки</string>
+    <string name="detailTraining_DateTotal">Общее время:</string>
+    <string name="detailTraining_DateStart">Начало:</string>
+    <string name="detailTraining_DateEnd">Конец:</string>
+    <string name="detailTraining_DistanceTitle">Расстояние </string>
+    <string name="detailTraining_DistanceMetaData">Пройденное расстояние</string>
+    <string name="detailTraining_TotalDistance">Пройденное дистанция:</string>
+    <string name="detailTraining_Steps">Шаги:</string>
+    <string name="detailTraining_SpeedTitle">Скорость</string>
+    <string name="detailTraining_SpeedMetaData">Темп бега во время тренировки</string>
+    <string name="detailTraining_AverageSpeed">Средняя скорость:</string>
+    <string name="detailTraining_MaxSpeed">Макс скорость:</string>
+    <string name="detailTraining_MinSpeed">Мин скорость:</string>
+    <string name="detailTraining_MapTitle">Карта</string>
+    <string name="detailTraining_MapMetaData">Маршрут тренировки</string>
+    <string name="detailTraining_KalTitle">Калории</string>
+    <string name="detailTraining_KalMetaData">Количество потраченных калорий</string>
+    <string name="detailTraining_KalAmount">Калории:</string>
+    <string name="trainingFragmentStart">Старт</string>
+    <string name="trainingFragmentStop">Стоп</string>
+    <string name="trainingFragmentAlertDialogTitle">Вы хотите закончить тренировку?</string>
+    <string name="trainingFragmentAlertDialogText">Данные о тренировке будут сохранены</string>
+    <string name="trainingFragmentAlertDialogTrue">Да</string>
+    <string name="trainingFragmentAlertDialogFalse">Нет</string>
+    <string name="trainingFragmentAlertDialogRatingTitle">Оцените вашу тренировку</string>
+    <string name="trainingFragmentAlertDialogRatingTrue">Подтвердить</string>
+    <string name="detailActivityFragmentTime">минут %1$d</string>
+    <string name="detailActivityFragmentKal">кКалл %1$d</string>
+    <string name="detailActivityFragmentStep">шаги %1$d</string>
+    <string name="detailActivityFragmentTextDistance">Расстояние</string>
+    <string name="detailActivityFragmentCountTraining">Кол-во \nтренировок</string>
+    <string name="detailActivityFragmentAverageStar">Средняя \nоценка</string>
+    <string name="detailActivityFragmentNoTraining">Дней \nбез тренировок</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
